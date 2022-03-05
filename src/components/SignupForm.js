@@ -34,7 +34,7 @@ const SignupForm = ({submitForm}) => {
         <div className = "container">
           <div className = "container-app">
                   <div>
-                      <h1 className= "tittle">Create your Accound</h1>
+                      <h1 className= "tittle">Create your Account Here....</h1>
                   </div>
                 <form>
                     <div className ="name">
